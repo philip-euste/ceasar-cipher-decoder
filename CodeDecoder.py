@@ -1,6 +1,7 @@
 alphabet = "abcdefghijklmnopqrstuvwxyz"
 
 while True:
+    print("-"*50)
     phrase = input("Enter the code: ").lower()
     for shift in range(26):
         result = ""
