@@ -157,7 +157,7 @@ The `<3` formatting aligns the shift numbers into a three-character-wide field.
 Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/code-decoder.git
+git clone https://github.com/philip-euste/ceasar-cipher-decoder.git
 
 cd code-decoder
 ```
